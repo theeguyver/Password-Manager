@@ -1,0 +1,1 @@
+This is simple console based Password Manager that encrypts and stores password locally on your system. This project was developed as the final project for Project Exhibition-II, Winter Semester 2022-23, 21BCY Batch.
